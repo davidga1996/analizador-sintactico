@@ -1,0 +1,8 @@
+C:\Users\david\OneDrive\Escritorio\Analizador lexico\bin\Debug\Analizador lexico.exe
+C:\Users\david\OneDrive\Escritorio\Analizador lexico\bin\Debug\Analizador lexico.pdb
+C:\Users\david\OneDrive\Escritorio\Analizador lexico\obj\Debug\Analizador lexico.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\Analizador lexico\obj\Debug\Analizador_lexico.MainForm.resources
+C:\Users\david\OneDrive\Escritorio\Analizador lexico\obj\Debug\Analizador lexico.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Escritorio\Analizador lexico\obj\Debug\Analizador lexico.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\Analizador lexico\obj\Debug\Analizador lexico.exe
+C:\Users\david\OneDrive\Escritorio\Analizador lexico\obj\Debug\Analizador lexico.pdb
